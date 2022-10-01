@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 
-LSM2.py - script that can open .LSM files from Carl Zeiss LSM710 microscope obtained in lambda mode and convert them into pseudo-realistic colored images (with help of napari). I make this thing mostly for self-education, so it may (must) contain realy stupid mistakes and just strange things
+I am a scientist, part physicist, part biologist. A little bit of 3D printing, nanoparticles, cell cultures and confocal microscopy.
+The main language I use is python. However, I also plan to upload some things not related to programming to github - protocols, graphics, and some other things.
 
 
 
